@@ -1,0 +1,16 @@
+C:\Users\lokog\Documents\Desktop\SzyfrCezara\SzyfrCezara\bin\Debug\net10.0-windows\SzyfrCezara.exe
+C:\Users\lokog\Documents\Desktop\SzyfrCezara\SzyfrCezara\bin\Debug\net10.0-windows\SzyfrCezara.deps.json
+C:\Users\lokog\Documents\Desktop\SzyfrCezara\SzyfrCezara\bin\Debug\net10.0-windows\SzyfrCezara.runtimeconfig.json
+C:\Users\lokog\Documents\Desktop\SzyfrCezara\SzyfrCezara\bin\Debug\net10.0-windows\SzyfrCezara.dll
+C:\Users\lokog\Documents\Desktop\SzyfrCezara\SzyfrCezara\bin\Debug\net10.0-windows\SzyfrCezara.pdb
+C:\Users\lokog\Documents\Desktop\SzyfrCezara\SzyfrCezara\obj\Debug\net10.0-windows\SzyfrCezara.Form1.resources
+C:\Users\lokog\Documents\Desktop\SzyfrCezara\SzyfrCezara\obj\Debug\net10.0-windows\SzyfrCezara.csproj.GenerateResource.cache
+C:\Users\lokog\Documents\Desktop\SzyfrCezara\SzyfrCezara\obj\Debug\net10.0-windows\SzyfrCezara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lokog\Documents\Desktop\SzyfrCezara\SzyfrCezara\obj\Debug\net10.0-windows\SzyfrCezara.AssemblyInfoInputs.cache
+C:\Users\lokog\Documents\Desktop\SzyfrCezara\SzyfrCezara\obj\Debug\net10.0-windows\SzyfrCezara.AssemblyInfo.cs
+C:\Users\lokog\Documents\Desktop\SzyfrCezara\SzyfrCezara\obj\Debug\net10.0-windows\SzyfrCezara.csproj.CoreCompileInputs.cache
+C:\Users\lokog\Documents\Desktop\SzyfrCezara\SzyfrCezara\obj\Debug\net10.0-windows\SzyfrCezara.dll
+C:\Users\lokog\Documents\Desktop\SzyfrCezara\SzyfrCezara\obj\Debug\net10.0-windows\refint\SzyfrCezara.dll
+C:\Users\lokog\Documents\Desktop\SzyfrCezara\SzyfrCezara\obj\Debug\net10.0-windows\SzyfrCezara.pdb
+C:\Users\lokog\Documents\Desktop\SzyfrCezara\SzyfrCezara\obj\Debug\net10.0-windows\SzyfrCezara.genruntimeconfig.cache
+C:\Users\lokog\Documents\Desktop\SzyfrCezara\SzyfrCezara\obj\Debug\net10.0-windows\ref\SzyfrCezara.dll

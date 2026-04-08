@@ -1,0 +1,16 @@
+C:\Users\lokog\Documents\Desktop\Suwak\Suwak\bin\Debug\net10.0-windows\Suwak.exe
+C:\Users\lokog\Documents\Desktop\Suwak\Suwak\bin\Debug\net10.0-windows\Suwak.deps.json
+C:\Users\lokog\Documents\Desktop\Suwak\Suwak\bin\Debug\net10.0-windows\Suwak.runtimeconfig.json
+C:\Users\lokog\Documents\Desktop\Suwak\Suwak\bin\Debug\net10.0-windows\Suwak.dll
+C:\Users\lokog\Documents\Desktop\Suwak\Suwak\bin\Debug\net10.0-windows\Suwak.pdb
+C:\Users\lokog\Documents\Desktop\Suwak\Suwak\obj\Debug\net10.0-windows\Suwak.Form1.resources
+C:\Users\lokog\Documents\Desktop\Suwak\Suwak\obj\Debug\net10.0-windows\Suwak.csproj.GenerateResource.cache
+C:\Users\lokog\Documents\Desktop\Suwak\Suwak\obj\Debug\net10.0-windows\Suwak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lokog\Documents\Desktop\Suwak\Suwak\obj\Debug\net10.0-windows\Suwak.AssemblyInfoInputs.cache
+C:\Users\lokog\Documents\Desktop\Suwak\Suwak\obj\Debug\net10.0-windows\Suwak.AssemblyInfo.cs
+C:\Users\lokog\Documents\Desktop\Suwak\Suwak\obj\Debug\net10.0-windows\Suwak.csproj.CoreCompileInputs.cache
+C:\Users\lokog\Documents\Desktop\Suwak\Suwak\obj\Debug\net10.0-windows\Suwak.dll
+C:\Users\lokog\Documents\Desktop\Suwak\Suwak\obj\Debug\net10.0-windows\refint\Suwak.dll
+C:\Users\lokog\Documents\Desktop\Suwak\Suwak\obj\Debug\net10.0-windows\Suwak.pdb
+C:\Users\lokog\Documents\Desktop\Suwak\Suwak\obj\Debug\net10.0-windows\Suwak.genruntimeconfig.cache
+C:\Users\lokog\Documents\Desktop\Suwak\Suwak\obj\Debug\net10.0-windows\ref\Suwak.dll

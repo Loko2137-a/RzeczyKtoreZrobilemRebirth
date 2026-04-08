@@ -1,0 +1,16 @@
+C:\Users\lokog\Documents\Desktop\RGBEgzamin\RGBEgzamin\bin\Debug\net10.0-windows\RGBEgzamin.exe
+C:\Users\lokog\Documents\Desktop\RGBEgzamin\RGBEgzamin\bin\Debug\net10.0-windows\RGBEgzamin.deps.json
+C:\Users\lokog\Documents\Desktop\RGBEgzamin\RGBEgzamin\bin\Debug\net10.0-windows\RGBEgzamin.runtimeconfig.json
+C:\Users\lokog\Documents\Desktop\RGBEgzamin\RGBEgzamin\bin\Debug\net10.0-windows\RGBEgzamin.dll
+C:\Users\lokog\Documents\Desktop\RGBEgzamin\RGBEgzamin\bin\Debug\net10.0-windows\RGBEgzamin.pdb
+C:\Users\lokog\Documents\Desktop\RGBEgzamin\RGBEgzamin\obj\Debug\net10.0-windows\RGBEgzamin.Form1.resources
+C:\Users\lokog\Documents\Desktop\RGBEgzamin\RGBEgzamin\obj\Debug\net10.0-windows\RGBEgzamin.csproj.GenerateResource.cache
+C:\Users\lokog\Documents\Desktop\RGBEgzamin\RGBEgzamin\obj\Debug\net10.0-windows\RGBEgzamin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lokog\Documents\Desktop\RGBEgzamin\RGBEgzamin\obj\Debug\net10.0-windows\RGBEgzamin.AssemblyInfoInputs.cache
+C:\Users\lokog\Documents\Desktop\RGBEgzamin\RGBEgzamin\obj\Debug\net10.0-windows\RGBEgzamin.AssemblyInfo.cs
+C:\Users\lokog\Documents\Desktop\RGBEgzamin\RGBEgzamin\obj\Debug\net10.0-windows\RGBEgzamin.csproj.CoreCompileInputs.cache
+C:\Users\lokog\Documents\Desktop\RGBEgzamin\RGBEgzamin\obj\Debug\net10.0-windows\RGBEgzamin.dll
+C:\Users\lokog\Documents\Desktop\RGBEgzamin\RGBEgzamin\obj\Debug\net10.0-windows\refint\RGBEgzamin.dll
+C:\Users\lokog\Documents\Desktop\RGBEgzamin\RGBEgzamin\obj\Debug\net10.0-windows\RGBEgzamin.pdb
+C:\Users\lokog\Documents\Desktop\RGBEgzamin\RGBEgzamin\obj\Debug\net10.0-windows\RGBEgzamin.genruntimeconfig.cache
+C:\Users\lokog\Documents\Desktop\RGBEgzamin\RGBEgzamin\obj\Debug\net10.0-windows\ref\RGBEgzamin.dll
