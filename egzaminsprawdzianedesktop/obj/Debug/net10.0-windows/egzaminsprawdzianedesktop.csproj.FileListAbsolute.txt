@@ -1,0 +1,17 @@
+C:\Users\Komputer PC\Documents\egzaminsprawdzianedesktop\bin\Debug\net10.0-windows\egzaminsprawdzianedesktop.exe
+C:\Users\Komputer PC\Documents\egzaminsprawdzianedesktop\bin\Debug\net10.0-windows\egzaminsprawdzianedesktop.deps.json
+C:\Users\Komputer PC\Documents\egzaminsprawdzianedesktop\bin\Debug\net10.0-windows\egzaminsprawdzianedesktop.runtimeconfig.json
+C:\Users\Komputer PC\Documents\egzaminsprawdzianedesktop\bin\Debug\net10.0-windows\egzaminsprawdzianedesktop.dll
+C:\Users\Komputer PC\Documents\egzaminsprawdzianedesktop\bin\Debug\net10.0-windows\egzaminsprawdzianedesktop.pdb
+C:\Users\Komputer PC\Documents\egzaminsprawdzianedesktop\obj\Debug\net10.0-windows\egzaminsprawdzianedesktop.Form1.resources
+C:\Users\Komputer PC\Documents\egzaminsprawdzianedesktop\obj\Debug\net10.0-windows\egzaminsprawdzianedesktop.Properties.Resources.resources
+C:\Users\Komputer PC\Documents\egzaminsprawdzianedesktop\obj\Debug\net10.0-windows\egzaminsprawdzianedesktop.csproj.GenerateResource.cache
+C:\Users\Komputer PC\Documents\egzaminsprawdzianedesktop\obj\Debug\net10.0-windows\egzaminsprawdzianedesktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Komputer PC\Documents\egzaminsprawdzianedesktop\obj\Debug\net10.0-windows\egzaminsprawdzianedesktop.AssemblyInfoInputs.cache
+C:\Users\Komputer PC\Documents\egzaminsprawdzianedesktop\obj\Debug\net10.0-windows\egzaminsprawdzianedesktop.AssemblyInfo.cs
+C:\Users\Komputer PC\Documents\egzaminsprawdzianedesktop\obj\Debug\net10.0-windows\egzaminsprawdzianedesktop.csproj.CoreCompileInputs.cache
+C:\Users\Komputer PC\Documents\egzaminsprawdzianedesktop\obj\Debug\net10.0-windows\egzaminsprawdzianedesktop.dll
+C:\Users\Komputer PC\Documents\egzaminsprawdzianedesktop\obj\Debug\net10.0-windows\refint\egzaminsprawdzianedesktop.dll
+C:\Users\Komputer PC\Documents\egzaminsprawdzianedesktop\obj\Debug\net10.0-windows\egzaminsprawdzianedesktop.pdb
+C:\Users\Komputer PC\Documents\egzaminsprawdzianedesktop\obj\Debug\net10.0-windows\egzaminsprawdzianedesktop.genruntimeconfig.cache
+C:\Users\Komputer PC\Documents\egzaminsprawdzianedesktop\obj\Debug\net10.0-windows\ref\egzaminsprawdzianedesktop.dll
