@@ -8,7 +8,7 @@ namespace egzaminsprawdzianedesktop
 {
     public partial class Form1 : Form
     {
-        private string[] dane = File.ReadAllLines("C:\\Users\\Komputer PC\\Documents\\egzaminsprawdzianedesktop\\Resources\\Data.txt");
+        private string[] dane = File.ReadAllLines(Path.Combine(Application.StartupPath, "Data.txt"));
         private int i = 0;
         private string wykonawca, tytul;
         private int iloscUtworow, rokWydania, iloscPobran;
