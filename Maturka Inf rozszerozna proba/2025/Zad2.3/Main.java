@@ -1,39 +1,15 @@
+import java.util.Scanner;
+import java.io.IOException;
 import java.io.File;
 import java.io.FileWriter;
-import java.io.IOException;
-import java.util.Scanner;
-class Main
+public class Main
 {
-    public static int NWD(int a, int b)
+    public static int SliceA(int k, int j)
     {
-        while(a!=b)
-        {
-            if(a>b)
-            {
-                a-=b;
-            }
-            else
-            {
-                b-=a;
-            }
-        }
-        return a;
-    }
-    public static int SliceA(int k)
-    {
-        int a, iloscCyfr, polowa, temp = k;
-        iloscCyfr = 0;
-        polowa = 0;
-        while(temp > 0)
-        {
-            temp/=10;
-            iloscCyfr++;
-        }
-        if(iloscCyfr%2!=0) return -1;
-        polowa = iloscCyfr/2;
+        int a;
         int potega = 1;
         int i = 0;
-        while(i < polowa)
+        while(i < j)
         {
             potega*=10;
             i++;
@@ -41,21 +17,12 @@ class Main
         a = k / potega;
         return a;
     }
-    public static int SliceB(int k)
+    public static int SliceB(int k, int j)
     {
-        int b, iloscCyfr, polowa, temp = k;
-        iloscCyfr = 0;
-        polowa = 0;
-        while(temp > 0)
-        {
-            temp/=10;
-            iloscCyfr++;
-        }
-        if(iloscCyfr%2!=0) return -1;
-        polowa = iloscCyfr/2;
+        int b;
         int potega = 1;
         int i = 0;
-        while(i < polowa)
+        while(i < j)
         {
             potega*=10;
             i++;
@@ -65,30 +32,48 @@ class Main
     }
     public static void main(String[] args)
     {
-        int IloscLiczb = 0;
+        int Maxstopien = -1;
+        int Najliczba = 0;
         try
         {
-            File plik = new File("liczby1.txt");
-            FileWriter writer = new FileWriter("Wynik.txt");
+            File plik = new File("liczby2.txt");
             Scanner Reader = new Scanner(plik);
-            while (Reader.hasNextInt())
+            FileWriter writer = new FileWriter("Wynik.txt");
+            while(Reader.hasNextInt())
             {
-                int k = Reader.nextInt();
-                int a = SliceA(k);
-                int b = SliceB(k);
-                if(NWD(a,b) == 1)
+                int stopien = 0;
+                int n = Reader.nextInt();
+                int i = 0;
+                int n2 = n * n;
+                int temp = n2;
+                while(temp > 0)
                 {
-                    IloscLiczb++;
+                    temp/=10;
+                    i++;
+                }
+                for(int j = 1;  j<i ;j++)
+                {
+                    int a = SliceA(n2, j);
+                    int b = SliceB(n2, j);
+                    if(a + b <= n)
+                    {
+                        stopien++;
+                    }
+                }
+                if(stopien > Maxstopien)
+                {
+                    Maxstopien= stopien;
+                    Najliczba = n;
                 }
             }
-            writer.write(String.valueOf(IloscLiczb));
-            Reader.close();
+            writer.write(String.valueOf(Najliczba) + "\n");
+            writer.write(String.valueOf(Maxstopien));
             writer.close();
+            Reader.close();
         }
         catch(IOException e)
         {
-            System.out.println(e);
+            System.out.print(e);
         }
-
     }
 }
